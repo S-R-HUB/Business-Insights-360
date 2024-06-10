@@ -1,4 +1,4 @@
-# Business Insights 360&#8451;
+# Business Insights 360&#176;
 ## Problem Statement:
 AtliQ Hardwares is a fastest growing hardware company in the electronics goods market. Their business model consists of manufacturing the devices and shipping it to their warehouses of different region. Their business model includes selling the products through brick and mortar platforms which are basically offline retailers and e-commerce platform which are online retailers. They also have their own authorised direct stores, and in some region they sell through distributors. 
 
