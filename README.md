@@ -20,39 +20,40 @@ They have expanded their business and tried to make their presence in some new r
 - DAX language
 - DAX studio (for report optimization)
 
-## Data Sources: MYSQL database, Excel and .csv files
+## Data Sources: 
+MYSQL database, Excel and .csv files
 
 ## PowerBI Techniques Learned
 
-Importing data from various datasets
-Calculated column creation
-DAX measures creation
-Data modeling
-Creating Bookmark usage for visual switching
-Button-enabled page navigation
-Date table creation with M language
-Dynamic titles reflecting applied filters
-KPI indicator utilization
-Visual value conditional formatting with icons or background color
-Data validation methods
-PowerBI services integration
-Report publishing to PowerBI services
-Personal gateway setup for data auto-refresh
-PowerBI App development
+- Importing data from various datasets
+- Calculated column creation
+- DAX measures creation
+- Data modeling
+- Creating Bookmark usage for visual switching
+- Button-enabled page navigation
+- Date table creation with M language
+- Dynamic titles reflecting applied filters
+- KPI indicator utilization
+- Visual value conditional formatting with icons or background color
+- Data validation methods
+- PowerBI services integration
+- Report publishing to PowerBI services
+- Personal gateway setup for data auto-refresh
+- PowerBI App development
 
 
 ## Business Terminology
-Gross price
-Pre-invoice deductions
-Post-invoice deductions
-Net invoice sale
-Gross Margin
-Net sales
-Net profit
-COGC - Cost of Goods Sold
-YTD - Year to Date
-YTG - Year to Go
-RC- Revenue Contribution
-Net Error
-Forecast Accuracy
-Absolute Error
+- Gross price
+- Pre-invoice deductions
+- Post-invoice deductions
+- Net invoice sale
+- Gross Margin
+- Net sales
+- Net profit
+- COGS - Cost of Goods Sold
+- YTD - Year to Date
+- YTG - Year to Go
+- RC- Revenue Contribution
+- Net Error
+- Forecast Accuracy
+- Absolute Error
