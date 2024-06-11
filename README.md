@@ -13,12 +13,12 @@ They have expanded their business and tried to make their presence in some new r
 5. Executive View: Shows the market share among competitors in various subzone. Also shows the top N customers and products in terms of Gross Margin & Revenue Contribution
 
 ## Technology Stack
-SQL
-Power Query
-PowerBI Desktop
-Excel
-DAX language
-DAX studio (for report optimization)
+- SQL
+- Power Query
+- PowerBI Desktop
+- Excel
+- DAX language
+- DAX studio (for report optimization)
 
 ## Data Sources: MYSQL database, Excel and .csv files
 
