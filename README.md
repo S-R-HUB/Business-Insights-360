@@ -4,13 +4,15 @@ AtliQ Hardwares is a fastest growing hardware company in the electronics goods m
 
 They have expanded their business and tried to make their presence in some new regions but have faced huge loss due to decisions taken based on customer feedback and surveys. The objective is to provide detailed insights based on real time data from the previous fiscal years.
 
-Finance View: Provides detailed insights of all the P&L metrics/ KPIs against the benchmarks for different fiscal years
-Sales View: Gives the data about how customers are performing in terms of Net Sales, COGS, Gross Margin
-Marketing View: Shows the performance of different products grouped in categories and segments in terms of Net Profit
-Supply Chain View: Shows the inventory status and gives the difference between forecast quantity and actual quantity sold and Forecast Accuracy
-Executive View: Shows the market share among competitors in various subzone. Also shows the top N customers and products in terms of Gross Margin & Revenue Contribution
+## Dashboard Views:
 
-Technology Stack
+1. Finance View: Provides detailed insights of all the P&L metrics/ KPIs against the benchmarks for different fiscal years
+2. Sales View: Gives the data about how customers are performing in terms of Net Sales, COGS, Gross Margin
+3. Marketing View: Shows the performance of different products grouped in categories and segments in terms of Net Profit
+4. Supply Chain View: Shows the inventory status and gives the difference between forecast quantity and actual quantity sold and Forecast Accuracy
+5. Executive View: Shows the market share among competitors in various subzone. Also shows the top N customers and products in terms of Gross Margin & Revenue Contribution
+
+## Technology Stack
 SQL
 Power Query
 PowerBI Desktop
@@ -18,9 +20,10 @@ Excel
 DAX language
 DAX studio (for report optimization)
 
-Data Sources: MYSQL database, Excel and .csv files
+## Data Sources: MYSQL database, Excel and .csv files
 
-PowerBI Techniques Learned
+## PowerBI Techniques Learned
+
 Importing data from various datasets
 Calculated column creation
 DAX measures creation
@@ -38,7 +41,7 @@ Personal gateway setup for data auto-refresh
 PowerBI App development
 
 
-Business Terminology
+## Business Terminology
 Gross price
 Pre-invoice deductions
 Post-invoice deductions
