@@ -31,6 +31,7 @@ MYSQL database, Excel and .csv files
 - Data modeling
 - Creating Bookmark usage for visual switching
 - Button-enabled page navigation
+- Creating tooltip
 - Date table creation with M language
 - Dynamic titles reflecting applied filters
 - KPI indicator utilization
